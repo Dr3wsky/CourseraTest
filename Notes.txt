@@ -1,0 +1,7 @@
+Initial Model
+~91k Cells
+
+Converged after Run 9 
+
+Good intro to method and workflow of running. 
+Need to modify part and add bell-inlet to match experiment. 
